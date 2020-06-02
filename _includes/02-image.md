@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Placeholder Img](https://i.picsum.photos/id/1003/1181/1772.jpg)
